@@ -5,7 +5,7 @@
 + :bulb:***Sistemas de Informações - Universidade Federal do Estado do Rio de Janeiro***, 3º período - trancado; :bulb:
          
 
-### _Buscando expência profissional na área de desenvolvimento de software._
+### _Buscando experiência profissional na área de desenvolvimento de software._
 
 ## Tecnologias que mais utilizo:
 * 💻 ***Bibliotecas e Frameworks Frontend***
