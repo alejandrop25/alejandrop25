@@ -10,12 +10,12 @@
 ## Tecnologias que mais utilizo:
 * 💻 ***Bibliotecas e Frameworks Frontend***
 * 💻 ***React***
-* 💻 ***SQL*** 
 
 ## Estudando no momento:
 * :memo: ***Angular.js***
 * :memo: ***API's REST/RESTFUL***
 * :memo: ***Java & Spring***
+* :memo: ***SQL & NoSQL***
 
 ### 📍 ***Rio de Janeiro, RJ***
 
