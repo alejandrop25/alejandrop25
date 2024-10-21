@@ -1,5 +1,5 @@
 ![matrix-rain](https://github.com/user-attachments/assets/17862500-8710-4793-bf6b-3a00c0f707e5)
-## Olá! 👋
+### Olá! 👋
 # Me chamo Alejandro Oliveira Perrone
 + :bulb:***Análise e Desenvolvimento de Sistemas - Faculdade IBMR***, 2º período - presente;  
 + :bulb:***Sistemas de Informações - Universidade Federal do Estado do Rio de Janeiro***, 3º período - trancado; 
