@@ -10,8 +10,10 @@
 ## Tecnologias que mais utilizo:
 * 💻 ***Bibliotecas e Frameworks Frontend***
 * 💻 ***React***
+* 💻 ***SQL***
+* 💻 ***TypeScript***
 
-## Estudando no momento:
+## Aprofundando no momento:
 * :memo: ***Angular.js***
 * :memo: ***API's REST/RESTFUL***
 * :memo: ***Java & Spring***
