@@ -14,9 +14,8 @@
 * 💻 ***TypeScript***
 
 ## Aprofundando no momento:
-* :memo: ***Angular.js***
 * :memo: ***API's REST/RESTFUL***
-* :memo: ***Java & Spring***
+* :memo: ***PHP***
 * :memo: ***SQL & NoSQL***
 
 ### 📍 ***Rio de Janeiro, RJ***
