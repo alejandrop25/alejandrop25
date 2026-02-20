@@ -4,12 +4,11 @@
 + :bulb:***Análise e Desenvolvimento de Sistemas - Faculdade IBMR***, 5º período - presente;  
          
 
-### _Buscando experiência profissional na área de desenvolvimento de software._
+### Desenvolvedor RPA | Web._
 
 ## Tecnologias que mais utilizo:
-* 💻 ***Desenvolvimento WEB***
-* 💻 ***Java***
-* 💻 ***Javascript***
+* 💻 ***UiPath Studio***
+* 💻 ***React***
 * 💻 ***API's REST***
 
 ### 📍 ***Rio de Janeiro, RJ***
